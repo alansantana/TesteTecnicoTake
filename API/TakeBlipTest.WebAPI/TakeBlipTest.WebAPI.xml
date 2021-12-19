@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TakeBlipTest.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:TakeBlipTest.WebAPI.Controllers.RepositoryController.Get">
+            <summary>
+            Get five firts itens from Take repository.
+            </summary>
+        </member>
+    </members>
+</doc>
